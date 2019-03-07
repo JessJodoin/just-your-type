@@ -31,8 +31,6 @@ article {
 
   article {
     display: inline-block;
-    position: relative;
-
     max-width: 40em;
   }
 
